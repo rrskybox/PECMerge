@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PECMerge", "PECMerge\PECMerge.csproj", "{BFCB6510-7F11-4A57-9F02-F10BE1A22FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCB6510-7F11-4A57-9F02-F10BE1A22FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCB6510-7F11-4A57-9F02-F10BE1A22FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCB6510-7F11-4A57-9F02-F10BE1A22FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCB6510-7F11-4A57-9F02-F10BE1A22FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32B6DFF-6CD6-4A35-B721-1C77A4872E6B}
+	EndGlobalSection
+EndGlobal
